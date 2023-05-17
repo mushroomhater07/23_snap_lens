@@ -1,0 +1,42 @@
+{
+    "1683839410116631:496603": {
+        "IFileManager": {
+            "path": "Files/File_1683839410116631_496603.webp"
+        }
+    },
+    "1683839410118849:496604": {
+        "IResourceController": {
+            "name": "eye",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683839410119201:496605",
+            "fileId": "1683839410116631:496603",
+            "originalId": "1683839410119694:496610",
+            "publicId": "1683839410156342:496616",
+            "expected_hash": "f9e8c34559f36801b11a60d6c43f9677",
+            "additional": {
+                "originHash": "f9e8c34559f36801b11a60d6c43f9677"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683839410119201:496605",
+            "name": "Files/File_1683839410116631_496603.webp",
+            "flags": 1
+        }
+    },
+    "1683839410119694:496610": {
+        "IFileManager": {
+            "path": "Files/File_1683839410119694_496610.webp"
+        }
+    },
+    "1683839410156342:496616": {
+        "IResourceController": {
+            "public": {
+                "path": "eye.webp",
+                "hash": "f9e8c34559f36801b11a60d6c43f9677"
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1683845459014271:333090": {
+        "IResourceController": {
+            "name": "Mesh",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683845459014404:333091",
+            "resources": [
+                "1683845459013903:333082"
+            ]
+        }
+    },
+    "1683845459014404:333091": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Makeup Resources/Mesh"
+            }
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1683838466008289:313021": {
+        "IFileManager": {
+            "path": "Files/File_1683838466008289_313021.webp"
+        }
+    },
+    "1683838466011023:313022": {
+        "IResourceController": {
+            "name": "Roamer_White_Mask1",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683838466011352:313023",
+            "fileId": "1683838466008289:313021",
+            "originalId": "1683838466012304:313028",
+            "publicId": "1683838466059144:313034",
+            "expected_hash": "c50e3b72fd9a447bbf80ef584b10fb85",
+            "additional": {
+                "originHash": "c50e3b72fd9a447bbf80ef584b10fb85"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683838466011352:313023",
+            "name": "Files/File_1683838466008289_313021.webp",
+            "flags": 1
+        }
+    },
+    "1683838466012304:313028": {
+        "IFileManager": {
+            "path": "Files/File_1683838466012304_313028.webp"
+        }
+    },
+    "1683838466059144:313034": {
+        "IResourceController": {
+            "public": {
+                "path": "Roamer_White_Mask1.webp",
+                "hash": "c50e3b72fd9a447bbf80ef584b10fb85"
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "1683845459011616:333077": {
+        "IResourceController": {
+            "name": "3D Makeup Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683845459011817:333078",
+            "resources": [
+                "1683845459012881:333079",
+                "1683845459014271:333090",
+                "1683845459193264:333129"
+            ]
+        }
+    },
+    "1683845459011817:333078": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Makeup Resources"
+            }
+        }
+    }
+}

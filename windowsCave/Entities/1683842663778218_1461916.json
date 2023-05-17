@@ -1,0 +1,79 @@
+{
+    "1683842663773784:1461915": {
+        "IFileManager": {
+            "path": "Files/File_1683842663773784_1461915.pvr"
+        }
+    },
+    "1683842663778218:1461916": {
+        "IResourceController": {
+            "name": "cave-natu",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683842663780340:1461919",
+            "fileId": "1683842663773784:1461915",
+            "originalId": "1683842663781993:1461927",
+            "publicId": "1683842663906366:1461944",
+            "expected_hash": "a13d7fb6d0a1e43e5141f48b0c9f8301",
+            "additional": {
+                "originHash": "21fb76b1c7e6f3a3eea4ecdeea90786c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683842663780340:1461919",
+            "name": "Files/File_1683842663773784_1461915.png",
+            "flags": 1
+        }
+    },
+    "1683842663780340:1461919": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "c6d24b3f657d351da8d9eccc79e9d65e"
+                    },
+                    "v": "1683842693389371:1466482"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1179648",
+                "compressedSize": "519552",
+                "extension": "png",
+                "originalRAM": "9437184",
+                "originalSize": "1838988",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683842663835440:1461933"
+        }
+    },
+    "1683842663781993:1461927": {
+        "IFileManager": {
+            "path": "Files/File_1683842663781993_1461927.png"
+        }
+    },
+    "1683842663835440:1461933": {
+        "IFileManager": {
+            "path": "Files/File_1683842663835440_1461933.png"
+        }
+    },
+    "1683842663906366:1461944": {
+        "IResourceController": {
+            "public": {
+                "path": "cave-natu.png",
+                "hash": "21fb76b1c7e6f3a3eea4ecdeea90786c"
+            }
+        }
+    },
+    "1683842693389371:1466482": {
+        "IFileManager": {
+            "path": "Files/File_1683842693389371_1466482.pvr"
+        }
+    }
+}

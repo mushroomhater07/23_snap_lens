@@ -1,0 +1,72 @@
+{
+    "1683845459016202:333092": {
+        "IFileManager": {
+            "path": "Files/File_1683845459016202_333092.jpg"
+        }
+    },
+    "1683845459018319:333093": {
+        "IResourceController": {
+            "name": "facemeshMouth",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683845459018601:333094",
+            "fileId": "1683845459016202:333092",
+            "originalId": "1683845459018913:333099",
+            "publicId": "1683845459035288:333108",
+            "expected_hash": "226a9612877a614d2fc3e63f75214d30",
+            "additional": {
+                "originHash": "226a9612877a614d2fc3e63f75214d30"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683845459018601:333094",
+            "name": "Files/File_1683845459016202_333092.jpg",
+            "flags": 1
+        }
+    },
+    "1683845459018601:333094": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "262144",
+                "compressedSize": "1395",
+                "extension": "jpg",
+                "originalRAM": "262144",
+                "originalSize": "1395",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1683845459030290:333107"
+        }
+    },
+    "1683845459018913:333099": {
+        "IFileManager": {
+            "path": "Files/File_1683845459018913_333099.jpg"
+        }
+    },
+    "1683845459030290:333107": {
+        "IFileManager": {
+            "path": "Files/File_1683845459030290_333107.jpg"
+        }
+    },
+    "1683845459035288:333108": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Makeup Resources/Textures/Opacity Masks/facemeshMouth.jpg",
+                "hash": "226a9612877a614d2fc3e63f75214d30"
+            }
+        }
+    }
+}

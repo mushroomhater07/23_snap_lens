@@ -1,0 +1,72 @@
+{
+    "1683845459229478:333232": {
+        "IFileManager": {
+            "path": "Files/File_1683845459229478_333232.jpg"
+        }
+    },
+    "1683845459231847:333233": {
+        "IResourceController": {
+            "name": "lashes",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683845459231971:333234",
+            "fileId": "1683845459229478:333232",
+            "originalId": "1683845459232237:333239",
+            "publicId": "1683845459246571:333248",
+            "expected_hash": "78511f27dd80834e39c6d9a727bc4668",
+            "additional": {
+                "originHash": "78511f27dd80834e39c6d9a727bc4668"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683845459231971:333234",
+            "name": "Files/File_1683845459229478_333232.jpg",
+            "flags": 1
+        }
+    },
+    "1683845459231971:333234": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "4000000",
+                "compressedSize": "7029",
+                "extension": "jpg",
+                "originalRAM": "4000000",
+                "originalSize": "7029",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1683845459242143:333247"
+        }
+    },
+    "1683845459232237:333239": {
+        "IFileManager": {
+            "path": "Files/File_1683845459232237_333239.jpg"
+        }
+    },
+    "1683845459242143:333247": {
+        "IFileManager": {
+            "path": "Files/File_1683845459242143_333247.jpg"
+        }
+    },
+    "1683845459246571:333248": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Makeup Resources/Textures/Opacity Masks/lashes.jpg",
+                "hash": "78511f27dd80834e39c6d9a727bc4668"
+            }
+        }
+    }
+}

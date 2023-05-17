@@ -1,0 +1,39 @@
+{
+    "1683845459067730:333114": {
+        "IFileManager": {
+            "path": "Files/File_1683845459067730_333114"
+        }
+    },
+    "1683845459069337:333115": {
+        "IResourceController": {
+            "name": "Makeup Colors Setup",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683845459069342:333116",
+            "fileId": "1683845459067730:333114",
+            "originalId": "1683845459106808:333122",
+            "publicId": "1683845459195141:333131",
+            "expected_hash": "e430febb72411fcdd5c2eea8d06808a4"
+        },
+        "IResourceManager": {
+            "uid": "1683845459069342:333116",
+            "name": "Files/File_1683845459067730_333114",
+            "flags": 1
+        }
+    },
+    "1683845459106808:333122": {
+        "IFileManager": {
+            "path": "Files/File_1683845459106808_333122.lsmat"
+        }
+    },
+    "1683845459195141:333131": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Makeup Resources/Materials/Makeup Colors Setup.lsmat",
+                "hash": "e1e1827a5935164e06be2a31798ceeab"
+            }
+        }
+    }
+}

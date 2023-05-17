@@ -1,0 +1,39 @@
+{
+    "1683810220549148:162775": {
+        "IFileManager": {
+            "path": "Files/File_1683810220549148_162775"
+        }
+    },
+    "1683810220552032:162776": {
+        "IResourceController": {
+            "name": "Nails Segmentation Texture Default",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683810220552038:162777",
+            "fileId": "1683810220549148:162775",
+            "originalId": "1683810220584929:162789",
+            "publicId": "1683810220910699:162978",
+            "expected_hash": "7203716116d4e031ba8b1353bfca61ce"
+        },
+        "IResourceManager": {
+            "uid": "1683810220552038:162777",
+            "name": "Files/File_1683810220549148_162775",
+            "flags": 1
+        }
+    },
+    "1683810220584929:162789": {
+        "IFileManager": {
+            "path": "Files/File_1683810220584929_162789.lsmat"
+        }
+    },
+    "1683810220910699:162978": {
+        "IResourceController": {
+            "public": {
+                "path": "Nails Segmentation Texture Default.lsmat",
+                "hash": "389136126afc0fae77f50dc77975d458"
+            }
+        }
+    }
+}

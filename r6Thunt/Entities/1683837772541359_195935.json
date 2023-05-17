@@ -1,0 +1,72 @@
+{
+    "1683837772534569:195932": {
+        "IFileManager": {
+            "path": "Files/File_1683837772534569_195932.png"
+        }
+    },
+    "1683837772541359:195935": {
+        "IResourceController": {
+            "name": "White-Fabric-Texture-Background-1451153784",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683837772543163:195936",
+            "fileId": "1683837772534569:195932",
+            "originalId": "1683837772544199:195941",
+            "publicId": "1683837772613688:195953",
+            "expected_hash": "5cbd4015d67b8e06caf2bd21b9197bef",
+            "additional": {
+                "originHash": "5cbd4015d67b8e06caf2bd21b9197bef"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683837772543163:195936",
+            "name": "Files/File_1683837772534569_195932.png",
+            "flags": 1
+        }
+    },
+    "1683837772543163:195936": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "2",
+                "subtype": "9",
+                "type": "1"
+            },
+            "infos": {
+                "compressedRAM": "8294400",
+                "compressedSize": "828032",
+                "extension": "png",
+                "originalRAM": "8294400",
+                "originalSize": "828032",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1683837772583760:195950"
+        }
+    },
+    "1683837772544199:195941": {
+        "IFileManager": {
+            "path": "Files/File_1683837772544199_195941.png"
+        }
+    },
+    "1683837772583760:195950": {
+        "IFileManager": {
+            "path": "Files/File_1683837772583760_195950.png"
+        }
+    },
+    "1683837772613688:195953": {
+        "IResourceController": {
+            "public": {
+                "path": "White-Fabric-Texture-Background-1451153784.png",
+                "hash": "5cbd4015d67b8e06caf2bd21b9197bef"
+            }
+        }
+    }
+}

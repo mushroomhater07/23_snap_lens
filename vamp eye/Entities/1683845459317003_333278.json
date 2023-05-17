@@ -1,0 +1,39 @@
+{
+    "1683845459315639:333277": {
+        "IFileManager": {
+            "path": "Files/File_1683845459315639_333277"
+        }
+    },
+    "1683845459317003:333278": {
+        "IResourceController": {
+            "name": "Makeup Textures Setup",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683845459317008:333279",
+            "fileId": "1683845459315639:333277",
+            "originalId": "1683845459343141:333285",
+            "publicId": "1683845459407338:333292",
+            "expected_hash": "bb6551f03e292c859725e1e6f60857ed"
+        },
+        "IResourceManager": {
+            "uid": "1683845459317008:333279",
+            "name": "Files/File_1683845459315639_333277",
+            "flags": 1
+        }
+    },
+    "1683845459343141:333285": {
+        "IFileManager": {
+            "path": "Files/File_1683845459343141_333285.lsmat"
+        }
+    },
+    "1683845459407338:333292": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Makeup Resources/Materials/Makeup Textures Setup.lsmat",
+                "hash": "7b4dab5efc05f2ee813059eec32de596"
+            }
+        }
+    }
+}

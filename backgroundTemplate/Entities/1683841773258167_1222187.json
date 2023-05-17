@@ -1,0 +1,17 @@
+{
+    "1683841773258167:1222187": {
+        "IResourceController": {
+            "name": "OrthoCamRender",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683841773258157:1222186"
+        },
+        "IResourceManager": {
+            "uid": "1683841773258157:1222186",
+            "name": "Render Target",
+            "flags": 0
+        }
+    }
+}

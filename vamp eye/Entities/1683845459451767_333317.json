@@ -1,0 +1,72 @@
+{
+    "1683845459449550:333316": {
+        "IFileManager": {
+            "path": "Files/File_1683845459449550_333316.jpg"
+        }
+    },
+    "1683845459451767:333317": {
+        "IResourceController": {
+            "name": "lips texture",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683845459451913:333318",
+            "fileId": "1683845459449550:333316",
+            "originalId": "1683845459452223:333323",
+            "publicId": "1683845459466140:333330",
+            "expected_hash": "c5688e3b9afcf4b8289078a2597eed31",
+            "additional": {
+                "originHash": "c5688e3b9afcf4b8289078a2597eed31"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683845459451913:333318",
+            "name": "Files/File_1683845459449550_333316.jpg",
+            "flags": 1
+        }
+    },
+    "1683845459451913:333318": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "1048576",
+                "compressedSize": "5397",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "5397",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1683845459461645:333329"
+        }
+    },
+    "1683845459452223:333323": {
+        "IFileManager": {
+            "path": "Files/File_1683845459452223_333323.jpg"
+        }
+    },
+    "1683845459461645:333329": {
+        "IFileManager": {
+            "path": "Files/File_1683845459461645_333329.jpg"
+        }
+    },
+    "1683845459466140:333330": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Makeup Resources/Textures/lips texture.jpg",
+                "hash": "c5688e3b9afcf4b8289078a2597eed31"
+            }
+        }
+    }
+}

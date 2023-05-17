@@ -1,0 +1,79 @@
+{
+    "1683808290445715:796332": {
+        "IFileManager": {
+            "path": "Files/File_1683808290445715_796332.pvr"
+        }
+    },
+    "1683808290455362:796333": {
+        "IResourceController": {
+            "name": "violet-color-solid-background-1920x1080",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683808290456558:796334",
+            "fileId": "1683808290445715:796332",
+            "originalId": "1683808290457769:796340",
+            "publicId": "1683808767550700:911143",
+            "expected_hash": "8501d2e10b951ce223b9d25a71157882",
+            "additional": {
+                "originHash": "0782f10105c2b22f97acb68817fddcf0"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683808290456558:796334",
+            "name": "Files/File_1683808290445715_796332.png",
+            "flags": 1
+        }
+    },
+    "1683808290456558:796334": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "0782f10105c2b22f97acb68817fddcf0"
+                    },
+                    "v": "1683808336057518:804335"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1036800",
+                "compressedSize": "4822",
+                "extension": "png",
+                "originalRAM": "8294400",
+                "originalSize": "283",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683808290533704:796347"
+        }
+    },
+    "1683808290457769:796340": {
+        "IFileManager": {
+            "path": "Files/File_1683808290457769_796340.png"
+        }
+    },
+    "1683808290533704:796347": {
+        "IFileManager": {
+            "path": "Files/File_1683808290533704_796347.png"
+        }
+    },
+    "1683808336057518:804335": {
+        "IFileManager": {
+            "path": "Files/File_1683808336057518_804335.pvr"
+        }
+    },
+    "1683808767550700:911143": {
+        "IResourceController": {
+            "public": {
+                "path": "violet-color-solid-background-1920x1080.png",
+                "hash": "0782f10105c2b22f97acb68817fddcf0"
+            }
+        }
+    }
+}

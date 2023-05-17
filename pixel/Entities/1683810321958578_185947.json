@@ -1,0 +1,39 @@
+{
+    "1683810321955769:185946": {
+        "IFileManager": {
+            "path": "Files/File_1683810321955769_185946"
+        }
+    },
+    "1683810321958578:185947": {
+        "IResourceController": {
+            "name": "Object Segmentation Texture Default",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683810321958583:185948",
+            "fileId": "1683810321955769:185946",
+            "originalId": "1683810321997854:185958",
+            "publicId": "1683810322430903:186204",
+            "expected_hash": "954f6937b3b4194106dfae19c334770f"
+        },
+        "IResourceManager": {
+            "uid": "1683810321958583:185948",
+            "name": "Files/File_1683810321955769_185946",
+            "flags": 1
+        }
+    },
+    "1683810321997854:185958": {
+        "IFileManager": {
+            "path": "Files/File_1683810321997854_185958.lsmat"
+        }
+    },
+    "1683810322430903:186204": {
+        "IResourceController": {
+            "public": {
+                "path": "Object Segmentation Texture Default.lsmat",
+                "hash": "b5182c7534c3e30c89020ab37b600de8"
+            }
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "1683845459209603:333205": {
+        "IFileManager": {
+            "path": "Files/File_1683845459209603_333205.jpg"
+        }
+    },
+    "1683845459211780:333218": {
+        "IResourceController": {
+            "name": "blush",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683845459211909:333219",
+            "fileId": "1683845459209603:333205",
+            "originalId": "1683845459212189:333224",
+            "publicId": "1683845459226958:333231",
+            "expected_hash": "735b60f16797e31c0ec30b991cf54a04",
+            "additional": {
+                "originHash": "735b60f16797e31c0ec30b991cf54a04"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683845459211909:333219",
+            "name": "Files/File_1683845459209603_333205.jpg",
+            "flags": 1
+        }
+    },
+    "1683845459211909:333219": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "4000000",
+                "compressedSize": "16527",
+                "extension": "jpg",
+                "originalRAM": "4000000",
+                "originalSize": "16527",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1683845459221948:333230"
+        }
+    },
+    "1683845459212189:333224": {
+        "IFileManager": {
+            "path": "Files/File_1683845459212189_333224.jpg"
+        }
+    },
+    "1683845459221948:333230": {
+        "IFileManager": {
+            "path": "Files/File_1683845459221948_333230.jpg"
+        }
+    },
+    "1683845459226958:333231": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Makeup Resources/Textures/Opacity Masks/blush.jpg",
+                "hash": "735b60f16797e31c0ec30b991cf54a04"
+            }
+        }
+    }
+}

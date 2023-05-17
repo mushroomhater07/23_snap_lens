@@ -1,0 +1,72 @@
+{
+    "1683845459612234:333476": {
+        "IFileManager": {
+            "path": "Files/File_1683845459612234_333476.jpg"
+        }
+    },
+    "1683845459614555:333477": {
+        "IResourceController": {
+            "name": "lipsGloss",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683845459614696:333478",
+            "fileId": "1683845459612234:333476",
+            "originalId": "1683845459614988:333483",
+            "publicId": "1683845459630034:333490",
+            "expected_hash": "fea51b063da72e7f2bc7f08fa8fd530b",
+            "additional": {
+                "originHash": "fea51b063da72e7f2bc7f08fa8fd530b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683845459614696:333478",
+            "name": "Files/File_1683845459612234_333476.jpg",
+            "flags": 1
+        }
+    },
+    "1683845459614696:333478": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "4000000",
+                "compressedSize": "4922",
+                "extension": "jpg",
+                "originalRAM": "4000000",
+                "originalSize": "4922",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1683845459625544:333489"
+        }
+    },
+    "1683845459614988:333483": {
+        "IFileManager": {
+            "path": "Files/File_1683845459614988_333483.jpg"
+        }
+    },
+    "1683845459625544:333489": {
+        "IFileManager": {
+            "path": "Files/File_1683845459625544_333489.jpg"
+        }
+    },
+    "1683845459630034:333490": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Makeup Resources/Textures/Opacity Masks/lipsGloss.jpg",
+                "hash": "fea51b063da72e7f2bc7f08fa8fd530b"
+            }
+        }
+    }
+}

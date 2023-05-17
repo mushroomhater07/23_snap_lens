@@ -1,0 +1,79 @@
+{
+    "1683809184591163:1017090": {
+        "IFileManager": {
+            "path": "Files/File_1683809184591163_1017090.pvr"
+        }
+    },
+    "1683809184598093:1017091": {
+        "IResourceController": {
+            "name": "green-leaves-background-5-3331848440",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683809184602714:1017092",
+            "fileId": "1683809184591163:1017090",
+            "originalId": "1683809184606391:1017099",
+            "publicId": "1683809184832007:1017129",
+            "expected_hash": "e1a501f59e1496bf4e74402f91870dea",
+            "additional": {
+                "originHash": "8ff833dc4701d027d504a69a3023f643"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683809184602714:1017092",
+            "name": "Files/File_1683809184591163_1017090.png",
+            "flags": 1
+        }
+    },
+    "1683809184602714:1017092": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "9dce860a562448c4a191ac19be74294a"
+                    },
+                    "v": "1683809264295138:1030912"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1310720",
+                "compressedSize": "1091407",
+                "extension": "png",
+                "originalRAM": "10485760",
+                "originalSize": "3852917",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683809184709354:1017110"
+        }
+    },
+    "1683809184606391:1017099": {
+        "IFileManager": {
+            "path": "Files/File_1683809184606391_1017099.png"
+        }
+    },
+    "1683809184709354:1017110": {
+        "IFileManager": {
+            "path": "Files/File_1683809184709354_1017110.png"
+        }
+    },
+    "1683809184832007:1017129": {
+        "IResourceController": {
+            "public": {
+                "path": "green-leaves-background-5-3331848440.png",
+                "hash": "8ff833dc4701d027d504a69a3023f643"
+            }
+        }
+    },
+    "1683809264295138:1030912": {
+        "IFileManager": {
+            "path": "Files/File_1683809264295138_1030912.pvr"
+        }
+    }
+}

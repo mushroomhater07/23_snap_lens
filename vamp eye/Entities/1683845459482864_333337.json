@@ -1,0 +1,72 @@
+{
+    "1683845459480722:333336": {
+        "IFileManager": {
+            "path": "Files/File_1683845459480722_333336.jpg"
+        }
+    },
+    "1683845459482864:333337": {
+        "IResourceController": {
+            "name": "eyeshadow texture",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683845459483004:333338",
+            "fileId": "1683845459480722:333336",
+            "originalId": "1683845459483439:333343",
+            "publicId": "1683845459498905:333358",
+            "expected_hash": "f022559e63ed6b142b2ad1845c7d3dd7",
+            "additional": {
+                "originHash": "f022559e63ed6b142b2ad1845c7d3dd7"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683845459483004:333338",
+            "name": "Files/File_1683845459480722_333336.jpg",
+            "flags": 1
+        }
+    },
+    "1683845459483004:333338": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "1048576",
+                "compressedSize": "19292",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "19292",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1683845459494195:333349"
+        }
+    },
+    "1683845459483439:333343": {
+        "IFileManager": {
+            "path": "Files/File_1683845459483439_333343.jpg"
+        }
+    },
+    "1683845459494195:333349": {
+        "IFileManager": {
+            "path": "Files/File_1683845459494195_333349.jpg"
+        }
+    },
+    "1683845459498905:333358": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Makeup Resources/Textures/eyeshadow texture.jpg",
+                "hash": "f022559e63ed6b142b2ad1845c7d3dd7"
+            }
+        }
+    }
+}

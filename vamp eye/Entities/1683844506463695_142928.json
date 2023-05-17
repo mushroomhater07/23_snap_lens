@@ -1,0 +1,42 @@
+{
+    "1683844506461576:142927": {
+        "IFileManager": {
+            "path": "Files/File_1683844506461576_142927.webp"
+        }
+    },
+    "1683844506463695:142928": {
+        "IResourceController": {
+            "name": "redeye",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683844506464001:142929",
+            "fileId": "1683844506461576:142927",
+            "originalId": "1683844506464452:142934",
+            "publicId": "1683844506524644:142940",
+            "expected_hash": "f739e35778960b5c10a83016b95fbf6d",
+            "additional": {
+                "originHash": "f739e35778960b5c10a83016b95fbf6d"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683844506464001:142929",
+            "name": "Files/File_1683844506461576_142927.webp",
+            "flags": 1
+        }
+    },
+    "1683844506464452:142934": {
+        "IFileManager": {
+            "path": "Files/File_1683844506464452_142934.webp"
+        }
+    },
+    "1683844506524644:142940": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/redeye.webp",
+                "hash": "f739e35778960b5c10a83016b95fbf6d"
+            }
+        }
+    }
+}

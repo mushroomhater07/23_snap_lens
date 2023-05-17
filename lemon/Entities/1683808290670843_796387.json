@@ -1,0 +1,79 @@
+{
+    "1683808290663738:796386": {
+        "IFileManager": {
+            "path": "Files/File_1683808290663738_796386.pvr"
+        }
+    },
+    "1683808290670843:796387": {
+        "IResourceController": {
+            "name": "Half-Lemon-PNG-Transparent-HD-Photo-2005858247",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683808290672593:796388",
+            "fileId": "1683808290663738:796386",
+            "originalId": "1683808290673937:796393",
+            "publicId": "1683808290763701:796410",
+            "expected_hash": "41578b8358ee772f1c77af3b46b3ae87",
+            "additional": {
+                "originHash": "20e8870536f4eee4859935e261b99f5a"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683808290672593:796388",
+            "name": "Files/File_1683808290663738_796386.png",
+            "flags": 1
+        }
+    },
+    "1683808290672593:796388": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "20e8870536f4eee4859935e261b99f5a"
+                    },
+                    "v": "1683808359139625:810208"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "700800",
+                "compressedSize": "354184",
+                "extension": "png",
+                "originalRAM": "5601600",
+                "originalSize": "1111428",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683808290707418:796399"
+        }
+    },
+    "1683808290673937:796393": {
+        "IFileManager": {
+            "path": "Files/File_1683808290673937_796393.png"
+        }
+    },
+    "1683808290707418:796399": {
+        "IFileManager": {
+            "path": "Files/File_1683808290707418_796399.png"
+        }
+    },
+    "1683808290763701:796410": {
+        "IResourceController": {
+            "public": {
+                "path": "Half-Lemon-PNG-Transparent-HD-Photo-2005858247.png",
+                "hash": "20e8870536f4eee4859935e261b99f5a"
+            }
+        }
+    },
+    "1683808359139625:810208": {
+        "IFileManager": {
+            "path": "Files/File_1683808359139625_810208.pvr"
+        }
+    }
+}

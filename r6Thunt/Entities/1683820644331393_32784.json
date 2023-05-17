@@ -1,0 +1,39 @@
+{
+    "1683820644330116:32783": {
+        "IFileManager": {
+            "path": "Files/File_1683820644330116_32783"
+        }
+    },
+    "1683820644331393:32784": {
+        "IResourceController": {
+            "name": "Face Mask",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683820644331401:32785",
+            "fileId": "1683820644330116:32783",
+            "originalId": "1683820644359980:32794",
+            "publicId": "1683820644692140:32925",
+            "expected_hash": "0e105597b5c613e0b78bf33b6407e4c8"
+        },
+        "IResourceManager": {
+            "uid": "1683820644331401:32785",
+            "name": "Files/File_1683820644330116_32783",
+            "flags": 1
+        }
+    },
+    "1683820644359980:32794": {
+        "IFileManager": {
+            "path": "Files/File_1683820644359980_32794.lsmat"
+        }
+    },
+    "1683820644692140:32925": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Mask.lsmat",
+                "hash": "791d0f4f82fb7258d7ea86f24334e42f"
+            }
+        }
+    }
+}

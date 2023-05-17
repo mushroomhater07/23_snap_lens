@@ -1,0 +1,39 @@
+{
+    "1683845458877180:332905": {
+        "IResourceController": {
+            "name": "3DMakeupHelper__PUT_UNDER_MAIN_CAM",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683845458877123:332902",
+            "fileId": "1683845458908026:332914",
+            "originalId": "1683846144106636:489864",
+            "publicId": "1683845459640742:333611",
+            "expected_hash": "05fd2d39db247d161e2be406bc3edf1a"
+        },
+        "IResourceManager": {
+            "uid": "1683845458877123:332902",
+            "name": "sceneObject_0",
+            "flags": 0
+        }
+    },
+    "1683845458908026:332914": {
+        "IFileManager": {
+            "path": "Files/File_1683845458908026_332914.oprfb"
+        }
+    },
+    "1683845459640742:333611": {
+        "IResourceController": {
+            "public": {
+                "path": "3DMakeupHelper__PUT_UNDER_MAIN_CAM.oprfb",
+                "hash": "c888998edf30d7c1df61268d906c0852"
+            }
+        }
+    },
+    "1683846144106636:489864": {
+        "IFileManager": {
+            "path": "Files/File_1683846144106636_489864.oprfb"
+        }
+    }
+}

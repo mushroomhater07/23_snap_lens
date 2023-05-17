@@ -1,0 +1,72 @@
+{
+    "1683845459580214:333456": {
+        "IFileManager": {
+            "path": "Files/File_1683845459580214_333456.jpg"
+        }
+    },
+    "1683845459582509:333457": {
+        "IResourceController": {
+            "name": "shadows2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683845459582657:333458",
+            "fileId": "1683845459580214:333456",
+            "originalId": "1683845459582970:333463",
+            "publicId": "1683845459597104:333470",
+            "expected_hash": "29809261347a9f9f49c4455d18eda216",
+            "additional": {
+                "originHash": "29809261347a9f9f49c4455d18eda216"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683845459582657:333458",
+            "name": "Files/File_1683845459580214_333456.jpg",
+            "flags": 1
+        }
+    },
+    "1683845459582657:333458": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "4000000",
+                "compressedSize": "4272",
+                "extension": "jpg",
+                "originalRAM": "4000000",
+                "originalSize": "4272",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1683845459592744:333469"
+        }
+    },
+    "1683845459582970:333463": {
+        "IFileManager": {
+            "path": "Files/File_1683845459582970_333463.jpg"
+        }
+    },
+    "1683845459592744:333469": {
+        "IFileManager": {
+            "path": "Files/File_1683845459592744_333469.jpg"
+        }
+    },
+    "1683845459597104:333470": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Makeup Resources/Textures/Opacity Masks/shadows2.jpg",
+                "hash": "29809261347a9f9f49c4455d18eda216"
+            }
+        }
+    }
+}

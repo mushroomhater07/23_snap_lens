@@ -1,0 +1,42 @@
+{
+    "1683842568321087:1436308": {
+        "IFileManager": {
+            "path": "Files/File_1683842568321087_1436308.webp"
+        }
+    },
+    "1683842568324610:1436309": {
+        "IResourceController": {
+            "name": "pexels-photo-1762851",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683842568324990:1436310",
+            "fileId": "1683842568321087:1436308",
+            "originalId": "1683842568325549:1436315",
+            "publicId": "1683842568363959:1436322",
+            "expected_hash": "90aa055f385f5d219479d27614367377",
+            "additional": {
+                "originHash": "90aa055f385f5d219479d27614367377"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683842568324990:1436310",
+            "name": "Files/File_1683842568321087_1436308.webp",
+            "flags": 1
+        }
+    },
+    "1683842568325549:1436315": {
+        "IFileManager": {
+            "path": "Files/File_1683842568325549_1436315.webp"
+        }
+    },
+    "1683842568363959:1436322": {
+        "IResourceController": {
+            "public": {
+                "path": "pexels-photo-1762851.webp",
+                "hash": "90aa055f385f5d219479d27614367377"
+            }
+        }
+    }
+}
